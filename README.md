@@ -395,35 +395,35 @@ split_teeth:cyan, squeezed_teeth:yellow)</b> <br>
 <h3>
 References
 </h3>
-<b>1. TensorFlow-FlexUNet-Image-Segmentation-Model</b>
+<b>1. TensorFlow-FlexUNet-Image-Segmentation-Model</b><br>
 Toshiyuki Arai antillia.com <br>
 <a href="https://github.com/sarah-antillia/TensorFlow-FlexUNet-Image-Segmentation-Model">
 https://github.com/sarah-antillia/TensorFlow-FlexUNet-Image-Segmentation-Model
 </a>
 <br>
 <br>
-<b>2. TensorFlow-FlexUNet-Image-Segmentation-MVTec-GRID</b>
+<b>2. TensorFlow-FlexUNet-Image-Segmentation-MVTec-GRID</b><br>
 Toshiyuki Arai antillia.com <br>
 <a href="https://github.com/atlan-antillia/TensorFlow-FlexUNet-Image-Segmentation-MVTec-GRID">
 https://github.com/atlan-antillia/TensorFlow-FlexUNet-Image-Segmentation-MVTec-GRID
 </a>
 <br>
 <br>
-<b>3. TensorFlow-FlexUNet-Image-Segmentation-MVTec-SCREW</b>
+<b>3. TensorFlow-FlexUNet-Image-Segmentation-MVTec-SCREW</b><br>
 Toshiyuki Arai antillia.com <br>
 <a href="https://github.com/atlan-antillia/TensorFlow-FlexUNet-Image-Segmentation-MVTec-SCREW">
 https://github.com/atlan-antillia/TensorFlow-FlexUNet-Image-Segmentation-MVTec-SCREW
 </a>
 <br>
 <br>
-<b>4. TensorFlow-FlexUNet-Image-Segmentation-MVTec-TRANSISTOR</b>
+<b>4. TensorFlow-FlexUNet-Image-Segmentation-MVTec-TRANSISTOR</b><br>
 Toshiyuki Arai antillia.com <br>
 <a href="https://github.com/atlan-antillia/TensorFlow-FlexUNet-Image-Segmentation-MVTec-TRANSISTOR">
 https://github.com/atlan-antillia/TensorFlow-FlexUNet-Image-Segmentation-MVTec-TRANSISTOR
 </a>
 <br>
 <br>
-<b>5. TensorFlow-FlexUNet-Image-Segmentation-MVTec-LEATHER</b>
+<b>5. TensorFlow-FlexUNet-Image-Segmentation-MVTec-LEATHER</b><br>
 Toshiyuki Arai antillia.com <br>
 <a href="https://github.com/atlan-antillia/TensorFlow-FlexUNet-Image-Segmentation-MVTec-LEATHER">
 https://github.com/atlan-antillia/TensorFlow-FlexUNet-Image-Segmentation-MVTec-LEATHER
